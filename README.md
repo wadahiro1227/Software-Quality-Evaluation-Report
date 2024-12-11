@@ -1,2 +1,2 @@
 # Software-Quality-Evaluation-Report
-"Hello, World!"
+こちらはソフトフェア品質評価特論の課題です．
